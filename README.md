@@ -6,7 +6,7 @@ The deployment of robots has been steadily growing worldwide, but their use in a
 
 
 ## Description
-The system developed in this thesis focused on using real sensor data: vision and force-torque readings obtained from the sensors fixed on the end-effector of a UR5e manipulator robot to create a lightweight simulation model to train a multimodal Reinforcement Learning policy(Soft Actor Critic) and deploy on the robot cell.
+The system developed in this thesis focused on using real sensor data: vision and force-torque readings obtained from the sensors fixed on the end-effector of a UR5e manipulator robot to create a lightweight simulation model to train a multimodal Reinforcement Learning policy (Soft Actor Critic) and deploy on the robot cell.
 
 Sample input images used for the policy are shown below:
 
